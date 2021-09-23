@@ -2,7 +2,9 @@
 
 Projeto que simula uma loja de sapatos com um carrinho de compras, onde é possível manipular os produtos de acordo com a quantidade disponível em estoque.
 
-## Desafio do Segundo cápitulo do Ignite da trilha de ReactJS.
+Desafio do Segundo cápitulo do Ignite da trilha de ReactJS.
+
+## Iniciando o Projeto
 
 Clone o repositório.
 
